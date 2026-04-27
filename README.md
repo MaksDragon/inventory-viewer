@@ -8,3 +8,9 @@ inventory viewer
 /invstop — безопасный выход с возвратом всех твоих вещей и внешнего вида.
 
 Право в TShock: invsee.use.
+
+============
+
+OTAPI.dll
+TerrariaServer.dll
+TShockAPI.dll
